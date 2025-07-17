@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maziar-norouzi.github.io/sitemap.xml
